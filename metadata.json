@@ -1,0 +1,5 @@
+{
+  "name": "TextSummarizer AI",
+  "description": "A tool to extract structured summaries, key points, and sentiment from unstructured text using Gemini AI.",
+  "requestFramePermissions": []
+}
